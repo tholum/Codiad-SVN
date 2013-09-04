@@ -3,6 +3,7 @@
 This plugin allows to 
 - pull svn repos to your current project
 - create projects from an svn repo
+- Use Authentication for svn
 
 Future Features/Bug Fixes
 - commit changes
