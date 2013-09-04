@@ -1,4 +1,4 @@
-# Git Admin
+# SVN Admin ( Beta )
 
 This plugin allows to 
 - pull svn repos to your current project
