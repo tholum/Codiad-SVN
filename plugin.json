@@ -1,0 +1,10 @@
+[ { "author" : "tholum",
+    "version": "0.2",
+    "name" : "Svn Admin",
+    "url" : "https://svnhub.com/tholum/Codiad-svnAdmin.svn",
+    "rightbar" : [{
+        "action" : "codiad.svn.pull();",
+        "icon" : "icon-palette",
+        "title" : "Svn Admin"
+        }]
+  } ]
