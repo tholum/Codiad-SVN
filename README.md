@@ -2,7 +2,7 @@
 
 This plugin allows to 
 - pull svn repos to your current project
-- create projects in Codiad from an svn repo
+- create Codiad projects from an svn repo
 - Use Authentication for svn
 
 Future Features/Bug Fixes
